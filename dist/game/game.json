@@ -1,0 +1,5 @@
+{
+    "deviceOrientation": "portrait",
+    "openDataContext": "js/openDataContext",
+    "modifyFriendInteractiveStorageConfirmWording": "确认送给${nickname}一个金币？"
+}
